@@ -2,7 +2,7 @@
 
 int main() {
     int j , m , a ;
-    int A ;
+    
     
     printf("veuillez saisir une date comme JJ/MM/AA : ");
     scanf("%d  %d  %d",&j,&m,&a);
